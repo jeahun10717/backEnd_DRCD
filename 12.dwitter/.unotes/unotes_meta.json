@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "client": {
+      "name": "client",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "server": {
+      "name": "server",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {}
+}
